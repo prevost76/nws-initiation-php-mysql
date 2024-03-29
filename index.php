@@ -42,7 +42,7 @@ $meta_description = "Premier projet en PHP et MySQL";
  * ------------------------------
  * Notre page d'accueil est un formulaire d'inscription à une newsletter.
  * Lorsque l'utilisateur soumet le formulaire, un message est affiché en cas d'erreur.
- * Nous allons donc commencer par gérer la condition de ce message en function des paramètres GET de l'URL.
+ * Nous allons donc commencer par gérer la condition de ce message en fonction des paramètres GET de l'URL.
  * 
  * exemple : /?error=already_subscribed
  * 

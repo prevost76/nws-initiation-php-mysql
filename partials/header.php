@@ -45,7 +45,8 @@ $meta_robot = "index, follow";
     <a href="/">
       <img src="/assets/images/logo.svg" width="180" height="70" alt="Logo NWS">
     </a>
-    <button class="contrast outline" data-toggle="theme" aria-label="toggle theme mode">
+    <a href="/inscription.php">Inscription</a>
+<button class="contrast outline" data-toggle="theme" aria-label="toggle theme mode">
       <i data-feather="sun"></i>
       <i data-feather="moon" hidden></i>
     </button>
